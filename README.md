@@ -12,6 +12,6 @@ Can be used as screensaver
 # Preview
 <p align="center">
   <a href="https://github.com/BaroDevelopment/OceanLife/blob/master/OceanLife.gif " target="_blank">
-    <img width="100" src="https://github.com/BaroDevelopment/OceanLife/blob/master/OceanLife.gif" alt="logo">
+    <img width="1000" src="https://github.com/BaroDevelopment/OceanLife/blob/master/OceanLife.gif" alt="logo">
   </a>
 </p>
