@@ -8,3 +8,10 @@ Can be used as screensaver
 - Stone (decoration)
 - Plant (decoration)
 - Fish (available in different colors)
+
+# Preview
+<p align="center">
+  <a href="https://github.com/BaroDevelopment/OceanLife/blob/master/OceanLife.gif " target="_blank">
+    <img width="500" height="500" src="https://github.com/BaroDevelopment/OceanLife/blob/master/OceanLife.gif" alt="logo">
+  </a>
+</p>
